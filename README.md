@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @autumn-pillowFort
 - 👀 I’m interested in Computer Science, Game Dev, Sci-Fi
 - 🌱 I’m currently working on some mobile app projects for commercial purpose
-- 💞️ I’m looking to collaborate on following technologies-> react, react-native, game dev in Unity Engine, and any of open source projects
+- 💞️ I’m looking to collaborate on following technologies-> fullstack, reactJs, react-native, game dev with Unity, AR/VR, and open source
 - 📫 How to reach me: autumntanzania@gmail.com
 - 😄 Pronouns: King
 - ⚡ cool fact: I have been to the FUTURE
